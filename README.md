@@ -2,7 +2,7 @@
 
 A modern, responsive currency converter web app built with **React**, **Vite**, and **Tailwind CSS**. Instantly convert between currencies using real-time exchange rates from the [ExchangeRate-API](https://www.exchangerate-api.com/).
 
-![Currency Converter Screenshot](https://images.pexels.com/photos/6771607/pexels-photo-6771607.jpeg)
+![Currency Converter Screenshot](public/ss.png)
 
 ---
 
