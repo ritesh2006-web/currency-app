@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Remove arrows in number input for all browsers */
+.no-spinner::-webkit-outer-spin-button,
+.no-spinner::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
